@@ -18,8 +18,7 @@ export default function Home({ countries }) {
         </h1>
 
         <p className={styles.description}>
-          Get started by editing{" "}
-          <code className={styles.code}>pages/index.js</code>
+          Practicing Apollo Client in Next.js
         </p>
 
         <div className={styles.grid}>
